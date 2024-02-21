@@ -1,5 +1,5 @@
 # intro-into_Deep_Learning
-Здесь выложены решения домашних заданий по вводному курсу в глубинное обучение
-1) Введение в PyTorch. Полносвязные нейронные сети
-2) Классификация изображений с помощью нейронных сетей
-3) Нейронная сеть для детекции объектов
+This page contains the homework solutions for the deep learning basic course:
+1) Introduction to PyTorch. Fully Connected Deep Networks (HW1)
+2) Image Classification using Neural Networks (HW2)
+3) Neural Network for Object Detection (HW2)
